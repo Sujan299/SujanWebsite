@@ -1,0 +1,207 @@
+.carousel-inner{
+    background-image: url('girl.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+  position: relative;
+  width: 100%;
+  height: 610px;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+}
+.greenytitle{
+    color: green;
+    word-spacing: 6px;
+}
+.carousel-item{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+.seesmall{
+    font-size: x-small;
+    color: white;
+}
+.card{
+    border: none;
+    background-color: rgb(215, 213, 209);
+    margin-top: 20px;
+}
+.graytype{
+    background-color: rgb(215, 213, 209);
+}
+.card-body{
+    word-spacing: 4px;
+    letter-spacing: 3px;
+}
+.nav-item{
+    word-spacing: 4px;
+    letter-spacing: 3px;
+}
+.image1{
+    max-width: 100%;
+    width: auto;
+}
+.thirdpart{
+    margin-top: 7rem;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.noborder{
+    border: none;
+    padding: 0 40px;
+    background-color: white;
+    color: blue;
+    font-weight: bolder;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+    font-size: x-large;
+
+}
+.thirdpart1{
+    word-spacing: 4px;
+    letter-spacing: 3px;
+    background-color: rgb(215, 213, 209);
+
+}
+.go{
+    padding: 40px 0;
+}
+.noborder1{
+    border: none;
+    padding: 0 40px;
+    background-color: rgb(215, 213, 209);
+    color: blue;
+    font-weight: bolder;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+    font-size: x-large;
+
+}
+.noborder2{
+    border: none;
+    padding: 0 40px;
+    background-color: white;
+    color: blue;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+
+}
+.card1{
+    background-color: white;
+    margin-bottom: 60px;
+}
+.purple{
+    background-color: rgb(54, 77, 54);
+    color: white;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    padding: 60px 0;
+}
+.smallfont{
+    width: 50%;
+    margin: auto;
+}
+.btnp{
+    margin: 20px 0;
+    color: white;
+}
+.oval1{
+    border-radius: 60%;
+}
+.purple1{
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    padding: 60px 0;
+    width: 50%;
+    margin: auto;
+}
+.white1{
+    color: white;
+    margin-top: 20px;
+}
+.white2{
+    color:rgb(130, 129, 129);
+    border: 1px solid rgb(130, 129, 129);
+    margin-top: 20px;
+}
+.foott{
+    background: black;
+}
+.go1{
+    padding: 60px 0 50px 0;
+    color: white;
+}
+.btn1{
+    color: white;
+    background-color: black;
+    border: 1px solid rgb(130, 129, 129);
+    width: 160px;
+    padding: 6px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.ics{
+    font-size: 50px;
+}
+.iconfont{
+    font-size: smaller;
+}
+.blue1{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: blue;
+    margin-top: 40px;
+}
+hr{
+    color: rgb(130, 129, 129);
+}
+.paddingicon{
+    padding: 10px 20px 10px 20px;
+    color:aqua;
+}
+.paddingtwo{
+    padding: 0 30px;
+    color: white;
+    text-decoration: none;
+}
+.padd{
+    padding: 23px 0;
+    color: white;
+}
+.padd1{
+    padding: 0 0 23px 0;
+    color: white;
+}
+.aref{
+    text-decoration: none;
+    color: white;
+    padding: 0 9px;
+}
+.height1{
+    height: 50px;
+}
+.paddtop{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.padd4{
+    margin: 0 0 24px 0;
+}
+.padleft{
+    font-size: 30px;
+    color: black;
+    margin-top: 15px;
+}
+html{
+    scroll-behavior: smooth;
+}
